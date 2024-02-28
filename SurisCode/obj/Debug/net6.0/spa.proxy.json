@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:44469",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/federicocolombo/Projects/SurisCode/SurisCode/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}
